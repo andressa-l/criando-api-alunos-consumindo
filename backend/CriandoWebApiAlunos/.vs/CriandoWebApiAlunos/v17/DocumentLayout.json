@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\source\\repos\\CriandoWebApiAlunos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7348ADB-57B4-41B1-8FE9-6A801B064BB8}|CriandoWebApiAlunos\\CriandoWebApiAlunos.csproj|c:\\users\\andre\\source\\repos\\criandowebapialunos\\criandowebapialunos\\services\\alunosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7348ADB-57B4-41B1-8FE9-6A801B064BB8}|CriandoWebApiAlunos\\CriandoWebApiAlunos.csproj|solutionrelative:criandowebapialunos\\services\\alunosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7348ADB-57B4-41B1-8FE9-6A801B064BB8}|CriandoWebApiAlunos\\CriandoWebApiAlunos.csproj|c:\\users\\andre\\source\\repos\\criandowebapialunos\\criandowebapialunos\\services\\ialunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7348ADB-57B4-41B1-8FE9-6A801B064BB8}|CriandoWebApiAlunos\\CriandoWebApiAlunos.csproj|solutionrelative:criandowebapialunos\\services\\ialunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7348ADB-57B4-41B1-8FE9-6A801B064BB8}|CriandoWebApiAlunos\\CriandoWebApiAlunos.csproj|c:\\users\\andre\\source\\repos\\criandowebapialunos\\criandowebapialunos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7348ADB-57B4-41B1-8FE9-6A801B064BB8}|CriandoWebApiAlunos\\CriandoWebApiAlunos.csproj|solutionrelative:criandowebapialunos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7348ADB-57B4-41B1-8FE9-6A801B064BB8}|CriandoWebApiAlunos\\CriandoWebApiAlunos.csproj|c:\\users\\andre\\source\\repos\\criandowebapialunos\\criandowebapialunos\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7348ADB-57B4-41B1-8FE9-6A801B064BB8}|CriandoWebApiAlunos\\CriandoWebApiAlunos.csproj|solutionrelative:criandowebapialunos\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7348ADB-57B4-41B1-8FE9-6A801B064BB8}|CriandoWebApiAlunos\\CriandoWebApiAlunos.csproj|c:\\users\\andre\\source\\repos\\criandowebapialunos\\criandowebapialunos\\controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7348ADB-57B4-41B1-8FE9-6A801B064BB8}|CriandoWebApiAlunos\\CriandoWebApiAlunos.csproj|solutionrelative:criandowebapialunos\\controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7348ADB-57B4-41B1-8FE9-6A801B064BB8}|CriandoWebApiAlunos\\CriandoWebApiAlunos.csproj|c:\\users\\andre\\source\\repos\\criandowebapialunos\\criandowebapialunos\\migrations\\20240225143948_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7348ADB-57B4-41B1-8FE9-6A801B064BB8}|CriandoWebApiAlunos\\CriandoWebApiAlunos.csproj|solutionrelative:criandowebapialunos\\migrations\\20240225143948_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7348ADB-57B4-41B1-8FE9-6A801B064BB8}|CriandoWebApiAlunos\\CriandoWebApiAlunos.csproj|c:\\users\\andre\\source\\repos\\criandowebapialunos\\criandowebapialunos\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7348ADB-57B4-41B1-8FE9-6A801B064BB8}|CriandoWebApiAlunos\\CriandoWebApiAlunos.csproj|solutionrelative:criandowebapialunos\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7348ADB-57B4-41B1-8FE9-6A801B064BB8}|CriandoWebApiAlunos\\CriandoWebApiAlunos.csproj|c:\\users\\andre\\source\\repos\\criandowebapialunos\\criandowebapialunos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B7348ADB-57B4-41B1-8FE9-6A801B064BB8}|CriandoWebApiAlunos\\CriandoWebApiAlunos.csproj|solutionrelative:criandowebapialunos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7348ADB-57B4-41B1-8FE9-6A801B064BB8}|CriandoWebApiAlunos\\CriandoWebApiAlunos.csproj|c:\\users\\andre\\source\\repos\\criandowebapialunos\\criandowebapialunos\\migrations\\20240225151603_populatabela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7348ADB-57B4-41B1-8FE9-6A801B064BB8}|CriandoWebApiAlunos\\CriandoWebApiAlunos.csproj|solutionrelative:criandowebapialunos\\migrations\\20240225151603_populatabela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlunosService.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\CriandoWebApiAlunos\\CriandoWebApiAlunos\\Services\\AlunosService.cs",
+              "RelativeDocumentMoniker": "CriandoWebApiAlunos\\Services\\AlunosService.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\CriandoWebApiAlunos\\CriandoWebApiAlunos\\Services\\AlunosService.cs",
+              "RelativeToolTip": "CriandoWebApiAlunos\\Services\\AlunosService.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwDIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T15:29:13.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\CriandoWebApiAlunos\\CriandoWebApiAlunos\\Program.cs",
+              "RelativeDocumentMoniker": "CriandoWebApiAlunos\\Program.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\CriandoWebApiAlunos\\CriandoWebApiAlunos\\Program.cs",
+              "RelativeToolTip": "CriandoWebApiAlunos\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T14:28:48.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AlunosController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\CriandoWebApiAlunos\\CriandoWebApiAlunos\\Controllers\\AlunosController.cs",
+              "RelativeDocumentMoniker": "CriandoWebApiAlunos\\Controllers\\AlunosController.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\CriandoWebApiAlunos\\CriandoWebApiAlunos\\Controllers\\AlunosController.cs",
+              "RelativeToolTip": "CriandoWebApiAlunos\\Controllers\\AlunosController.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAmwGcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T15:57:22.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\CriandoWebApiAlunos\\CriandoWebApiAlunos\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CriandoWebApiAlunos\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\CriandoWebApiAlunos\\CriandoWebApiAlunos\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "CriandoWebApiAlunos\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T14:24:04.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240225151603_PopulaTabela.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\CriandoWebApiAlunos\\CriandoWebApiAlunos\\Migrations\\20240225151603_PopulaTabela.cs",
+              "RelativeDocumentMoniker": "CriandoWebApiAlunos\\Migrations\\20240225151603_PopulaTabela.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\CriandoWebApiAlunos\\CriandoWebApiAlunos\\Migrations\\20240225151603_PopulaTabela.cs",
+              "RelativeToolTip": "CriandoWebApiAlunos\\Migrations\\20240225151603_PopulaTabela.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T15:16:03.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240225143948_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\CriandoWebApiAlunos\\CriandoWebApiAlunos\\Migrations\\20240225143948_Inicial.cs",
+              "RelativeDocumentMoniker": "CriandoWebApiAlunos\\Migrations\\20240225143948_Inicial.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\CriandoWebApiAlunos\\CriandoWebApiAlunos\\Migrations\\20240225143948_Inicial.cs",
+              "RelativeToolTip": "CriandoWebApiAlunos\\Migrations\\20240225143948_Inicial.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA3wBYAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T14:39:49.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAlunoService.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\CriandoWebApiAlunos\\CriandoWebApiAlunos\\Services\\IAlunoService.cs",
+              "RelativeDocumentMoniker": "CriandoWebApiAlunos\\Services\\IAlunoService.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\CriandoWebApiAlunos\\CriandoWebApiAlunos\\Services\\IAlunoService.cs",
+              "RelativeToolTip": "CriandoWebApiAlunos\\Services\\IAlunoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T15:22:39.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\CriandoWebApiAlunos\\CriandoWebApiAlunos\\appsettings.json",
+              "RelativeDocumentMoniker": "CriandoWebApiAlunos\\appsettings.json",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\CriandoWebApiAlunos\\CriandoWebApiAlunos\\appsettings.json",
+              "RelativeToolTip": "CriandoWebApiAlunos\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-25T14:33:22.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\CriandoWebApiAlunos\\CriandoWebApiAlunos\\Models\\Aluno.cs",
+              "RelativeDocumentMoniker": "CriandoWebApiAlunos\\Models\\Aluno.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\CriandoWebApiAlunos\\CriandoWebApiAlunos\\Models\\Aluno.cs",
+              "RelativeToolTip": "CriandoWebApiAlunos\\Models\\Aluno.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T14:14:19.921Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
